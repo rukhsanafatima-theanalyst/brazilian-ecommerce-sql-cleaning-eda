@@ -1,0 +1,6 @@
+customer_segment,total_customers,avg_segment_spend,total_segment_revenue
+"Churned One-Time Buyer",36391,161.81,5888435.90
+"Lapsing One-Time Buyer",36696,158.98,5834100.38
+"Recent One-Time Buyer",17469,162.32,2835568.28
+"At-Risk Repeat Customer",2197,305.32,670795.94
+"Active Repeat Customer",604,320.47,193561.27
